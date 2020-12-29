@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48834" started-at="2020-10-30T08:13:58Z" finished-at="2020-10-30T08:14:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48834" started-at="2020-10-30T08:13:58Z" finished-at="2020-10-30T08:14:47Z">
+      <class name="comPRO.Test.TC_001">
+        <test-method status="PASS" signature="init()[pri:0, instance:comPRO.Test.TC_001@25e70]" name="init" is-config="true" duration-ms="17" started-at="2020-10-30T13:43:58Z" finished-at="2020-10-30T13:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:comPRO.Test.TC_001@25e70]" name="Setup" is-config="true" duration-ms="15665" started-at="2020-10-30T13:43:58Z" finished-at="2020-10-30T13:44:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="LogInTest()[pri:1, instance:comPRO.Test.TC_001@25e70]" name="LogInTest" duration-ms="15962" started-at="2020-10-30T13:44:14Z" finished-at="2020-10-30T13:44:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInTest -->
+        <test-method status="PASS" signature="HorizontalTest()[pri:2, instance:comPRO.Test.TC_001@25e70]" name="HorizontalTest" duration-ms="17188" started-at="2020-10-30T13:44:30Z" finished-at="2020-10-30T13:44:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HorizontalTest -->
+        <test-method status="PASS" signature="LogoutTest()[pri:3, instance:comPRO.Test.TC_001@25e70]" name="LogoutTest" duration-ms="1" started-at="2020-10-30T13:44:47Z" finished-at="2020-10-30T13:44:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+      </class> <!-- comPRO.Test.TC_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
